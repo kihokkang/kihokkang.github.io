@@ -1,2 +1,2 @@
 # kihokkang.github.io
-This repository to test hosing vue built
+This repository to test hosting vue built
